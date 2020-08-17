@@ -1,0 +1,12 @@
+{
+    "name": "Ex07_PwmLedControl",
+    "description": "A simple flow for controlling a PWM LED strip. It uses a Jupiter Model A and a LED PWM click.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
